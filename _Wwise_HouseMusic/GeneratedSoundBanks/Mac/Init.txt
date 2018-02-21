@@ -1,0 +1,29 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	2782712965	Level			\Default Work Unit\Level	
+
+State	ID	Name	State Group			Notes
+	73316869	s_L3_1thFloor_Attack	Level			
+	332604599	s_L13_BigZombieArrival	Level			
+	505166081	s_L2_1thFloor_NoAttack	Level			
+	748895195	None	Level			
+	935522673	s_L8_1thFloor_ThreeZombieBreakDoor_music	Level			
+	1575570973	s_L9_1thFloor_CombatEnded	Level			
+	1642202546	s_L7_CarAlarm	Level			
+	1727040884	s_L0_Death	Level			
+	1774185652	s_L5_1thFloor_OneZombieBreakDoor	Level			
+	1984417701	s_L15_BigZombieDeath_EndCredit	Level			
+	2465686475	s_L10_PlayerIsOutside	Level			
+	2577812220	s_L6_1thFloor_CombatEnded	Level			
+	3114912790	s_L11_OutsideCombatEngaged	Level			
+	3116894954	s_L4_1thFloor_CombatEnded	Level			
+	3358985584	s_L12_OutsideCombatEnded	Level			
+	3468846369	s_L14_CopterArrival	Level			
+	3964298242	s_L1_Start_2thFloor	Level			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="128">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\GeneratedSoundBanks\Mac\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

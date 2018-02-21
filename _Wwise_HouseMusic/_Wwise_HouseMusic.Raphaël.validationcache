@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="85">
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\_Wwise_HouseMusic.Raphaël.wsettings" DateLow="1519224216" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\_Wwise_HouseMusic.wproj" DateLow="1519224216" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1518973002" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1518973002" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Attenuations\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Audio Devices\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Control Surface Sessions\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Conversion Settings\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1518973002" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Effects\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Effects\Factory Auro Headphone.wwu" DateLow="1518973002" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Effects\Factory Effects.wwu" DateLow="1518973002" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Events\Default Work Unit.wwu" DateLow="1519211434" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Game Parameters\Default Work Unit.wwu" DateLow="1519213050" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1518973002" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1519224216" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Mixing Sessions\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Modulators\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Presets\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Queries\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Queries\Factory Queries.wwu" DateLow="1518973002" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\SoundBanks\Default Work Unit.wwu" DateLow="1519211584" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\States\Default Work Unit.wwu" DateLow="1519213554" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Switches\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Triggers\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Virtual Acoustics\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\_Wwise_HouseMusic.wproj" DateLow="1519050808" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1518973002" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1518973002" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Attenuations\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Audio Devices\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Control Surface Sessions\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Conversion Settings\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1518973002" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Effects\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Effects\Factory Auro Headphone.wwu" DateLow="1518973002" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Effects\Factory Effects.wwu" DateLow="1518973002" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Events\Default Work Unit.wwu" DateLow="1519211434" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Game Parameters\Default Work Unit.wwu" DateLow="1519213050" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1518973002" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1519213578" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Mixing Sessions\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Modulators\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Presets\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Queries\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Queries\Factory Queries.wwu" DateLow="1518973002" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\SoundBanks\Default Work Unit.wwu" DateLow="1519211584" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\States\Default Work Unit.wwu" DateLow="1519213554" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Switches\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Triggers\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+	<ValidationCacheItem File="E:\_TRANSFERT\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\Virtual Acoustics\Default Work Unit.wwu" DateLow="1519050494" DateHigh="0"/>
+</ValidationCache>

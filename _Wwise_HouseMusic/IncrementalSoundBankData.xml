@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IncrementalBankBuild Version="6" Flags="3319646242">
+	<Platform GUID="{B406557F-FD96-4100-95FC-69CDCB5EA5E4}">
+		<Banks>
+			<Language ID="393239870">
+				<File Name="Init" Hash="972804098" Timestamp="1519223160"/>
+				<File Name="main" Hash="774318260" Timestamp="1519228998"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="393239870">
+				<File Name="Init" Hash="3959475102" Timestamp="1519228998"/>
+				<File Name="main" Hash="1172915650" Timestamp="1519228998"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="462116035" Timestamp="1519228998"/>
+			</Language>
+		</XMLInfo>
+		<JSONInfo>
+			<Language ID="393239870">
+				<File Name="Init" Hash="1720173478" Timestamp="1519228998"/>
+				<File Name="main" Hash="3148217603" Timestamp="1519228998"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="4025667861" Timestamp="1519228998"/>
+			</Language>
+		</JSONInfo>
+	</Platform>
+	<Platform GUID="{648950C8-9738-4290-B811-5AC18C08B1BA}">
+		<Banks>
+			<Language ID="393239870">
+				<File Name="Init" Hash="651886220" Timestamp="1519223162"/>
+				<File Name="main" Hash="774318260" Timestamp="1519228998"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="393239870">
+				<File Name="Init" Hash="3592407922" Timestamp="1519228998"/>
+				<File Name="main" Hash="536959430" Timestamp="1519228998"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="2843826183" Timestamp="1519228998"/>
+			</Language>
+		</XMLInfo>
+		<JSONInfo>
+			<Language ID="393239870">
+				<File Name="Init" Hash="3229549218" Timestamp="1519228998"/>
+				<File Name="main" Hash="3585459127" Timestamp="1519228998"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="929100721" Timestamp="1519228998"/>
+			</Language>
+		</JSONInfo>
+	</Platform>
+	<Platform GUID="{5473F044-BEA2-4CDD-8D4E-0739652EEE6B}">
+		<Banks>
+			<Language ID="393239870">
+				<File Name="Init" Hash="3306413911" Timestamp="1519223164"/>
+				<File Name="main" Hash="774318260" Timestamp="1519228999"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="393239870">
+				<File Name="Init" Hash="3035892232" Timestamp="1519228999"/>
+				<File Name="main" Hash="2823490984" Timestamp="1519228999"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="255763953" Timestamp="1519228999"/>
+			</Language>
+		</XMLInfo>
+		<JSONInfo>
+			<Language ID="393239870">
+				<File Name="Init" Hash="3212381900" Timestamp="1519228999"/>
+				<File Name="main" Hash="2248744313" Timestamp="1519228999"/>
+			</Language>
+			<Language ID="-1">
+				<File Name="" Hash="1848718307" Timestamp="1519228999"/>
+			</Language>
+		</JSONInfo>
+	</Platform>
+</IncrementalBankBuild>

@@ -1,0 +1,24 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1545821079	InGameMusic			\Default Work Unit\InGameMusic	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1138483027	p_PlayerHealth			\Default Work Unit\p_PlayerHealth	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	27920890	Arpeggio02a_150_m_G_16b	C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\.cache\Android\SFX\Arpeggio02a_150_m_G_16b_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\LevelSwitchMusic\L0_Death_Music\Arpeggio02a_150_m_G_16b\Arpeggio02a_150_m_G_16b		563402
+	66181803	Banjo 05-01 A	C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\.cache\Android\SFX\Banjo 05-01 A_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\LevelSwitchMusic\L13_BigZombieArrival_music\Banjo 05-01 A\Banjo 05-01 A		427480
+	152411277	Ambience 05-11	C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\.cache\Android\SFX\Ambience 05-11_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\LevelSwitchMusic\L1_Start_2thFloor_Music\Ambience 05-11\Ambience 05-11		1128812
+	183330903	Bigrev Beaten 02	C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\.cache\Android\SFX\Bigrev Beaten 02_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\LevelSwitchMusic\L14_CopterArrival_music\Bigrev Beaten 02\Bigrev Beaten 02		729244
+	366199488	Cloud Chord 1	C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\.cache\Android\SFX\Cloud Chord 1_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\LevelSwitchMusic\L9_1thFloor_CombatEnded_music\Cloud Chord 1\Cloud Chord 1		1258324
+	376974430	Ambient FX 09-10	C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\.cache\Android\SFX\Ambient FX 09-10_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\LevelSwitchMusic\L2_1thFloor_NoAttack_music\Ambient FX 09-10\Ambient FX 09-10		340356
+	384661813	Creepy Carousel 2	C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\.cache\Android\SFX\Creepy Carousel 2_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\LevelSwitchMusic\L10_PlayerIsOutside_music\Creepy Carousel 2\Creepy Carousel 2		568280
+	439763400	Acoustic Guitar 11-03 A	C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\.cache\Android\SFX\Acoustic Guitar 11-03 A_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\LevelSwitchMusic\L12_OutsideCombatEnded_music\Acoustic Guitar 11-03 A\Acoustic Guitar 11-03 A		709680
+	444878422	Electric Guitars 21-03 A	C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\.cache\Android\SFX\Electric Guitars 21-03 A_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\LevelSwitchMusic\L15_BigZombieDeath_EndCredit_music\Electric Guitars 21-03 A\Electric Guitars 21-03 A		426408
+	581465320	World Lick 54-09	C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\.cache\Android\SFX\World Lick 54-09_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\LevelSwitchMusic\L6_1thFloor_CombatEnded_music\World Lick 54-09\World Lick 54-09		641516
+	694449912	TeknoZone 18-03	C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\.cache\Android\SFX\TeknoZone 18-03_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\LevelSwitchMusic\L7_CarAlarm_music\TeknoZone 18-03\TeknoZone 18-03		651792
+	715338590	Bowed Autoharp Loop	C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\.cache\Android\SFX\Bowed Autoharp Loop_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\LevelSwitchMusic\L8_1thFloor_ThreeZombieBreakDoor_music\Bowed Autoharp Loop\Bowed Autoharp Loop		1346364
+	996470163	AmbiGroove 14-10	C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\.cache\Android\SFX\AmbiGroove 14-10_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\LevelSwitchMusic\L3_1thFloor_Attack_music\AmbiGroove 14-10\AmbiGroove 14-10		1418668
+	1017374774	Shortwave 4	C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\.cache\Android\SFX\Shortwave 4_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\LevelSwitchMusic\L11_OutsideCombatEngaged_music\Shortwave 4\Shortwave 4		1164172
+	1034312715	Bass Lick 34-06	C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\.cache\Android\SFX\Bass Lick 34-06_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\LevelSwitchMusic\L4_1thFloor_CombatEnded_music\Bass Lick 34-06\Bass Lick 34-06		785476
+	1036301428	Guitar Loop 40-12	C:\Users\Raphaël\Desktop\THE_HOUSE_MUSIQUE\_Wwise_HouseMusic\.cache\Android\SFX\Guitar Loop 40-12_F17FB28C.wem		\Interactive Music Hierarchy\Default Work Unit\LevelSwitchMusic\L5_1thFloor_OneZombieBreakDoor_music\Guitar Loop 40-12\Guitar Loop 40-12		667900
+

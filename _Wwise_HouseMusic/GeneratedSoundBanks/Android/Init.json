@@ -1,0 +1,24 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Android",
+  "BasePlatform": "Android",
+  "SchemaVersion": "11",
+  "SoundbankVersion": "128",
+  "RootPaths": {
+   "ProjectRoot": "C:\\Users\\Raphaël\\Desktop\\THE_HOUSE_MUSIQUE\\_Wwise_HouseMusic\\",
+   "SourceFilesRoot": "C:\\Users\\Raphaël\\Desktop\\THE_HOUSE_MUSIQUE\\_Wwise_HouseMusic\\.cache\\Android\\",
+   "SoundBanksRoot": "C:\\Users\\Raphaël\\Desktop\\THE_HOUSE_MUSIQUE\\_Wwise_HouseMusic\\GeneratedSoundBanks\\Android\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "C:\\Users\\Raphaël\\Desktop\\THE_HOUSE_MUSIQUE\\_Wwise_HouseMusic\\GeneratedSoundBanks\\Android\\"
+  },
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "Language": "SFX",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk"
+   }
+  ]
+ }
+}

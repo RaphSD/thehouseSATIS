@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{57788083-4D91-4385-8D09-2CB544CA9DF4}" SchemaVersion="85">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{57788083-4D91-4385-8D09-2CB544CA9DF4}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="InGameMusic" ID="{A220CBFA-12DD-4600-BAE4-D037CF1AB95C}">
+					<ChildrenList>
+						<Action Name="" ID="{5ABFDA7A-0DA7-4FD2-8E54-1D7751E9929C}" ShortID="843380345">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="LevelSwitchMusic" ID="{05D92634-0526-427C-A274-4D80A272B183}" WorkUnitID="{43C2F449-ACF7-4103-8579-712CEC9D0712}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

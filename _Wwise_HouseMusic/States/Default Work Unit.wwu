@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{28189446-D571-4195-A23E-13B04F09932E}" SchemaVersion="85">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{28189446-D571-4195-A23E-13B04F09932E}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="Level" ID="{09EA15D4-DF68-438E-A8E6-5A912A47A93D}">
+					<ChildrenList>
+						<State Name="None" ID="{95171F8F-D8E3-4657-89FD-5655E5DAECAC}"/>
+						<State Name="s_L0_Death" ID="{6075A202-0A7D-44D0-A810-4D83B77C3B65}"/>
+						<State Name="s_L1_Start_2thFloor" ID="{7A6390B3-F6FD-4492-99B8-2045C1858E6C}"/>
+						<State Name="s_L2_1thFloor_NoAttack" ID="{8E99A4A9-2ECB-49DD-AA4A-F9A2EC815B40}"/>
+						<State Name="s_L3_1thFloor_Attack" ID="{C093CC9D-827B-4DC9-BD29-D5ED890FC4A1}"/>
+						<State Name="s_L4_1thFloor_CombatEnded" ID="{01A7D0CE-A142-47A1-9BC9-0805A1A001DD}"/>
+						<State Name="s_L5_1thFloor_OneZombieBreakDoor" ID="{B6C35002-3E3A-48CC-97C8-49504355B173}"/>
+						<State Name="s_L6_1thFloor_CombatEnded" ID="{BDAC1CB5-69B7-44E4-9A5E-8BDF1CE98D6F}"/>
+						<State Name="s_L7_CarAlarm" ID="{18FF06B8-CABD-4EE4-8483-5852885FA45F}"/>
+						<State Name="s_L8_1thFloor_ThreeZombieBreakDoor_music" ID="{8D185AF1-3B5E-48A5-BDD5-A01A33E0DA70}"/>
+						<State Name="s_L9_1thFloor_CombatEnded" ID="{1D47C42D-E0EB-4448-91E1-05B5C96A6ACC}"/>
+						<State Name="s_L10_PlayerIsOutside" ID="{0C0BF16E-86E5-49BF-9096-47100FFE52E4}"/>
+						<State Name="s_L11_OutsideCombatEngaged" ID="{3455A941-CA9B-46E5-A566-18695871452D}"/>
+						<State Name="s_L12_OutsideCombatEnded" ID="{FC445F26-B614-4539-9A4F-1D461F4CE71A}"/>
+						<State Name="s_L13_BigZombieArrival" ID="{1843F7D0-1120-4035-BE83-DB514753B67B}"/>
+						<State Name="s_L15_BigZombieDeath_EndCredit" ID="{020BF0F0-5BA1-48A6-B63E-CC7A6A62692C}"/>
+						<State Name="s_L14_CopterArrival" ID="{9DBA210C-1E2E-42EE-87AF-626DB41D25A8}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

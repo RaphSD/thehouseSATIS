@@ -1,0 +1,139 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "11",
+  "SoundbankVersion": "128",
+  "RootPaths": {
+   "ProjectRoot": "C:\\Users\\Raphaël\\Desktop\\THE_HOUSE_MUSIQUE\\_Wwise_HouseMusic\\",
+   "SourceFilesRoot": "C:\\Users\\Raphaël\\Desktop\\THE_HOUSE_MUSIQUE\\_Wwise_HouseMusic\\.cache\\Windows\\",
+   "SoundBanksRoot": "C:\\Users\\Raphaël\\Desktop\\THE_HOUSE_MUSIQUE\\_Wwise_HouseMusic\\GeneratedSoundBanks\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "C:\\Users\\Raphaël\\Desktop\\THE_HOUSE_MUSIQUE\\_Wwise_HouseMusic\\GeneratedSoundBanks\\Windows\\"
+  },
+  "DialogueEvents": [],
+  "StreamedFiles": [],
+  "MediaFilesNotInAnyBank": [],
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "Language": "SFX",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk"
+   },
+   {
+    "Id": "3161908922",
+    "Language": "SFX",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\main",
+    "ShortName": "main",
+    "Path": "main.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "1545821079",
+      "Name": "InGameMusic",
+      "ObjectPath": "\\Events\\Default Work Unit\\InGameMusic"
+     }
+    ],
+    "IncludedMemoryFiles": [
+     {
+      "Id": "27920890",
+      "Language": "SFX",
+      "ShortName": "Arpeggio02a_150_m_G_16b.WAV",
+      "Path": "SFX\\Arpeggio02a_150_m_G_16b_F17FB28C.wem"
+     },
+     {
+      "Id": "66181803",
+      "Language": "SFX",
+      "ShortName": "Banjo 05-01 A.wav",
+      "Path": "SFX\\Banjo 05-01 A_F17FB28C.wem"
+     },
+     {
+      "Id": "152411277",
+      "Language": "SFX",
+      "ShortName": "Ambience 05-11.wav",
+      "Path": "SFX\\Ambience 05-11_F17FB28C.wem"
+     },
+     {
+      "Id": "183330903",
+      "Language": "SFX",
+      "ShortName": "Bigrev Beaten 02.wav",
+      "Path": "SFX\\Bigrev Beaten 02_F17FB28C.wem"
+     },
+     {
+      "Id": "366199488",
+      "Language": "SFX",
+      "ShortName": "Cloud Chord 1.wav",
+      "Path": "SFX\\Cloud Chord 1_F17FB28C.wem"
+     },
+     {
+      "Id": "376974430",
+      "Language": "SFX",
+      "ShortName": "Ambient FX 09-10.wav",
+      "Path": "SFX\\Ambient FX 09-10_F17FB28C.wem"
+     },
+     {
+      "Id": "384661813",
+      "Language": "SFX",
+      "ShortName": "Creepy Carousel 2.wav",
+      "Path": "SFX\\Creepy Carousel 2_F17FB28C.wem"
+     },
+     {
+      "Id": "439763400",
+      "Language": "SFX",
+      "ShortName": "Acoustic Guitar 11-03 A.wav",
+      "Path": "SFX\\Acoustic Guitar 11-03 A_F17FB28C.wem"
+     },
+     {
+      "Id": "444878422",
+      "Language": "SFX",
+      "ShortName": "Electric Guitars 21-03 A.wav",
+      "Path": "SFX\\Electric Guitars 21-03 A_F17FB28C.wem"
+     },
+     {
+      "Id": "581465320",
+      "Language": "SFX",
+      "ShortName": "World Lick 54-09.wav",
+      "Path": "SFX\\World Lick 54-09_F17FB28C.wem"
+     },
+     {
+      "Id": "694449912",
+      "Language": "SFX",
+      "ShortName": "TeknoZone 18-03.wav",
+      "Path": "SFX\\TeknoZone 18-03_F17FB28C.wem"
+     },
+     {
+      "Id": "715338590",
+      "Language": "SFX",
+      "ShortName": "Bowed Autoharp Loop.wav",
+      "Path": "SFX\\Bowed Autoharp Loop_F17FB28C.wem"
+     },
+     {
+      "Id": "996470163",
+      "Language": "SFX",
+      "ShortName": "AmbiGroove 14-10.wav",
+      "Path": "SFX\\AmbiGroove 14-10_F17FB28C.wem"
+     },
+     {
+      "Id": "1017374774",
+      "Language": "SFX",
+      "ShortName": "Shortwave 4.wav",
+      "Path": "SFX\\Shortwave 4_F17FB28C.wem"
+     },
+     {
+      "Id": "1034312715",
+      "Language": "SFX",
+      "ShortName": "Bass Lick 34-06.wav",
+      "Path": "SFX\\Bass Lick 34-06_F17FB28C.wem"
+     },
+     {
+      "Id": "1036301428",
+      "Language": "SFX",
+      "ShortName": "Guitar Loop 40-12.wav",
+      "Path": "SFX\\Guitar Loop 40-12_F17FB28C.wem"
+     }
+    ]
+   }
+  ]
+ }
+}
